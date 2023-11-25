@@ -16,7 +16,6 @@ All images were generated using only the base checkpoints of Stable Diffusion (1
 Some prompts were different, such as `RAW photo of a woman` or `photo of a woman without a background`, but nothing too complex.
 
 After the images were generated, only the top 1500 images were selected, and some underwent additional editing to fix facial features (especially eyes) and other minor corrections.
-Typically, the edits were done manually, which is why the number of images was reduced and the `person` class was excluded.
 
 ## Post process:
 
