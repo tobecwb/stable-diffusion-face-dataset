@@ -45,6 +45,12 @@ Maybe I'll leverage some other images I generated earlier while testing differen
 
 **Almost all images were generated using rented servers, so it's highly likely that I won't make significant updates to this project (due to cost and the limited hardware I have)**
 
+## Other related projects:
+
+- https://github.com/tobecwb/stable-diffusion-face-dataset
+- https://github.com/tobecwb/facial-features-yolo8x-seg
+- https://github.com/tobecwb/stable-diffusion-regularization-images
+
 ## LICENSE:
 
 All images are licensed under CC-BY-4.0 (Creative Commons Attribution 4.0 International).
