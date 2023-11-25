@@ -6,6 +6,8 @@ Images of men and women, mainly faces, seeking to generate more realistic images
 All images were generated with Stable Diffusion 1.5, 2.1, and SDXL 1.0 checkpoint.
 The main objective was to generate photos that were as realistic as possible, without any specific style, focusing mainly on the face.
 
+![samples](https://raw.githubusercontent.com/tobecwb/stable-diffusion-face-dataset/main/sample.jpg)
+
 - Images in `512x512px` resolution were generated using SD 1.5;
 - Images in `768x768px` resolution were generated using SD 2.1;
 - Images in `1024x1024px` resolution were generated using SD XL 1.0;
